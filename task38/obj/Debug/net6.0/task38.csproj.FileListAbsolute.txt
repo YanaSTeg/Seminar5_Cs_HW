@@ -1,0 +1,15 @@
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\bin\Debug\net6.0\task38.exe
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\bin\Debug\net6.0\task38.deps.json
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\bin\Debug\net6.0\task38.runtimeconfig.json
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\bin\Debug\net6.0\task38.dll
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\bin\Debug\net6.0\task38.pdb
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\task38.csproj.AssemblyReference.cache
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\task38.AssemblyInfoInputs.cache
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\task38.AssemblyInfo.cs
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\task38.csproj.CoreCompileInputs.cache
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\task38.dll
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\refint\task38.dll
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\task38.pdb
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\task38.genruntimeconfig.cache
+C:\Users\Яна\Desktop\C#\Seminar Cs_5HW\Seminar5_Cs_HW\Tasks\task38\obj\Debug\net6.0\ref\task38.dll
